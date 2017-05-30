@@ -1,0 +1,9 @@
+<launch>
+
+
+<node pkg="race_control" type="race_control_node" name="race_control">
+</node>
+
+
+
+</launch>
